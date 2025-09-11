@@ -4,7 +4,8 @@
   "description": "A collaborative backend project for building a **Blogging Platform** with PostgreSQL. The system exposes both **REST API** and **GraphQL API**, supporting authentication, role-based permissions, nested comments, tagging, search, and pagination.",
   "main": "dist/index.ts",
   "scripts": {
-    "dev": "ts-node-dev src/index.ts"
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
