@@ -169,4 +169,13 @@ backend/
 
 ---
 
+
+## References:
+
+Here are the blogs for our reference:
+
+1. [Database design](https://www.geeksforgeeks.org/dbms/how-to-design-database-for-a-blog-website/)
+2. [System design](https://medium.com/@srajsonu/designing-a-micro-blogging-platform-scalable-available-and-consistent-bed1e60350bf)
+
+
 📌 *This README will evolve as we progress. Please update it regularly to reflect changes.*
