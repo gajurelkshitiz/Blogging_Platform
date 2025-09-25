@@ -62,6 +62,9 @@ backend/
 * **Categories** (`id`, `name`)
 * **Post\_Categories** (join table: `post_id`, `category_id`)
 
+
+[Detailed design pdf](./public/blog_platform_db_design.pdf)
+
 ---
 
 ## 🏗 Roadmap
